@@ -1,6 +1,6 @@
 # Texture03
 
-#修改片元着色器,纹理坐标
+#修改片元着色器,纹理坐标（具体配置建：shaderf.fsh 文件）
 
 varying lowp vec2 varyTextCoord;
 
